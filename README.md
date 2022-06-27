@@ -1,6 +1,7 @@
 # data-science-projects
 ## Projects completed as part of the Introduction to Data Science I & II courses
 Project 1: The Open Payments Database (research paper is titled 'midterm project.pdf' and the filtered datasets used and code written aree also attached)
+
 Open Payments is a national disclosure program that gives insight into the financial relationships of drug
 and medical device companies with physicians and teaching hospitals. It makes payment transactions
 between the two different types of entities available to the general public in an effort to increase
@@ -23,6 +24,7 @@ dataset from 3,218 rows to 119 rows. This would also help my friends in med scho
 concrete conclusion about their field of study within medicine.
 
 Project 2: The Chicago Data Portal (research paper is titled 'Data Science II Project final.pdf' and the code written is attached)
+
 This was a group project, the description of which is as follows:
 For this project, we selected the Crimes dataset (2001 - Present) from the Chicago Data Portal as our foundation of study. This dataset was extracted from the Chicago Police Department’s CLEAR (Citizen Law Enforcement Analysis and Reporting) map, and includes 22 fields for every crime recorded by Chicago PD since 2001, including the type of crime; a more specific description of each crime; location of crime by coordinates, street address, block and civilian district; time the crime was recorded to have occured (both in terms of date and time of day); whether the crime occured within someone’s home and whether or not the perpetrator(s) was arrested. Given that the complete dataset, which is updated on a daily basis, covers criminal activity over the last 21 years, we chose to focus our study more by filtering the dataset based on the date and the year to only include all records from March 1st, 2019 to March 31st, 2022, which covered a total of 688,825 crimes recorded over the last three years. This gave us the opportunity to analyze how crime rates have changed with COVID since the dataset includes both pre-Covid and post-Covid years, as well as examining subjects of interest such as when and where crime rates are at their highest and lowest, the frequency of certain crimes throughout the day, and the likelihood of arrest depending on the location of the crime.
 My role in the group was:
